@@ -1,0 +1,28 @@
+var test="{
+	{
+		people:"小明",
+		sex:man,
+		old:18,
+		work:student
+	},
+	{
+		people:"小王",
+		sex:man,
+		old:28,
+		work:IT
+	},
+	{
+		people:"小玉",
+		sex:Woman,
+		old:25,
+		work:machinery enginner
+	},
+	{
+		people:"小李",
+		sex:Woman,
+		old:23,
+		work:student
+	},
+
+
+}"
